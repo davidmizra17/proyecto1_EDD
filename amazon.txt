@@ -1,0 +1,35 @@
+Almacenes
+Almacen A:Pantalla,3RAM,2Procesador,1
+Almacen B:Pantalla,3Grafica,5
+Almacen C:Placa,7Teclado,8
+Almacen D:Mouse,2
+Almacen E:Microfono,7Audifonos,10
+Rutas;
+A,B,10
+A,C,20
+B,C,5
+B,D,8
+C,D,4
+C,E,13
+D,E,3
+E,A,25
+F,A,6
+F,A,6
+F,A,6
+F,A,
+F,A,
+F,A,
+H,A,
+F,A,9
+F,A,9
+F,A,9
+F,A,7
+F,A,8
+F,A,7
+H,B,8
+F,G,5
+R,B,4
+P,A,Inserte peso de la arista
+P,A,7
+F,A,11
+F,A,15
