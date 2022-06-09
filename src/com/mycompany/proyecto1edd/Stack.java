@@ -90,7 +90,6 @@ public class Stack<T> {
     }
     
     /**
-     *Vacia la pila
      */
     public void emptyStack(){
     

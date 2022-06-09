@@ -33,3 +33,4 @@ P,A,Inserte peso de la arista
 P,A,7
 F,A,11
 F,A,15
+F,A,9
